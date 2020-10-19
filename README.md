@@ -1,4 +1,4 @@
-# PyBer Challenge
+# PyBer Challenge Analysis
 #### VDAB Module 5 Matplotlib
 Sandra Whitley | October 2020
 **************
@@ -33,4 +33,3 @@ Three recommendations gleaned from this data review:
 * Although the PyBer Summary Table provides a cursory overview, it could be enhanced with median and mode evaluation on the fare per driver and per ride. Additionally, a box and whisker plot would be a great visualization tool for this data.
 * The urban and suburban total fare dip at the end of March and recovery at the beginning of April deserves further research and the lack of fluctuation in the rural total fares during this fluctuation also deserve greater understanding.
 * As a customer-focused improvement, PyBer may want to consider recruiting more drivers in the rural areas to lower fares per ride.
-
