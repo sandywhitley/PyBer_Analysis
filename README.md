@@ -9,7 +9,7 @@ The purpose of this PyBer ride-share analysis is to provide ride, driver, and fa
 
 The second portion of the analysis referenced the same python dataframe (pyber_data_df) to calculate daily total fares by city type over a four month timeframe (1/1/2019 to 4/28/2019). The pandas matplotlib software was utilized to trend this data in a line graph.
 
-![1. city_data.csv](/Resources/city_data,csv)
+![1. city_data.csv](/Resources/city_data.csv)
 ![2. ride_data.csv](/Resources/ride_data.csv)
 
 ## Results
