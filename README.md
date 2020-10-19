@@ -23,6 +23,7 @@ The PyBer Total Fare by City Type Graph showed the total fare trends from 1/1/20
 
 ![1. PyBer Summary Table(/analysis/PyBer_Summary_df.png)
 
+
 ![2. PyBer Total Fare by City Type Graph](/analysis/PyBer_fare_summary.png)
 
 ## Summary
