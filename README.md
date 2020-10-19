@@ -22,6 +22,7 @@ The mid-density area resulted in 26% ot the total rides, 16% of the total driver
 The PyBer Total Fare by City Type Graph showed the total fare trends from 1/1/2019 to 4/28/2019. As noted above, the urban areas consistently yielded the highest total fare revenue, the rural areas yielded the lowest total revenue and and suburban areas yielded mid-range total fare revenues. This view demonstrated a very steep drop in urban and suburban total fares the last week of March then the subsequent recovery the first week of April. By the second week of April, the urban and suburban total fare trends returned to the pre-dip trends. The rural total fare trend did not exhibit the same dip.
 
 ![1. PyBer Summary Table(/analysis/PyBer_Summary_df.png)
+
 ![2. PyBer Total Fare by City Type Graph](/analysis/PyBer_fare_summary.png)
 
 ## Summary
